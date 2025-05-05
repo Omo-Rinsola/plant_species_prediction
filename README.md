@@ -7,7 +7,7 @@ This is a simple web application built with **Streamlit** that predicts the spec
 ## 📸 Demo
 
 *(Optional: Add a screenshot or GIF of your app here)*  
-![App Screenshot](screenshot.png)
+![App Screenshot](picture.png)
 
 ---
 
